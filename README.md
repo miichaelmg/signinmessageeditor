@@ -40,4 +40,10 @@ El nuevo mensaje se mostrará en la pantalla de inicio de sesión de Windows.
 
 📜 Licencia
 
-    Este proyecto está bajo la licencia MIT.
+    Gratis para distribuir, pero no para vender ni modificar.
+    
+    Copyright (c) 2025 Michael MG
+    
+    Se otorga permiso para usar, copiar y distribuir este software de forma gratuita, siempre que se conserve este aviso de copyright. No se permite su venta,   modificación o sublicencia bajo ninguna circunstancia.
+    
+    Este software se proporciona "tal cual", sin garantía de ningún tipo, expresa o implícita, incluyendo pero no limitado a garantías de comerciabilidad o idoneidad para un propósito particular.
