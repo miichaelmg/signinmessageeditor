@@ -17,9 +17,7 @@ HelloMessageEditor es una aplicación en C# con WinForms que permite modificar e
 📦 Instalación
 
     Descargar el ejecutable o clonar el repositorio.
-    
-    Compilar el código con Visual Studio (.NET Framework).
-    
+  
     Ejecutar como administrador para realizar cambios en el sistema.
 
 🖥️ Uso
