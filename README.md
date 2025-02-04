@@ -22,22 +22,22 @@ HelloMessageEditor es una aplicación en C# con WinForms que permite modificar e
 
 🖥️ Uso
 
-Abrir la aplicación con privilegios de administrador.
-
-Ingresar el título y mensaje en los campos de texto.
-
-Hacer clic en "Guardar" para aplicar los cambios.
-
+    Abrir la aplicación con privilegios de administrador.
+    
+    Ingresar el título y mensaje en los campos de texto.
+    
+    Hacer clic en "Guardar" para aplicar los cambios.
+    
 El nuevo mensaje se mostrará en la pantalla de inicio de sesión de Windows.
 
 ⚠️ Requisitos
 
-Windows 10/11.
-
-.NET Framework 4.5 o superior.
-
-Permisos de administrador.
+    Windows 10/11.
+    
+    .NET Framework 4.5 o superior.
+    
+    Permisos de administrador.
 
 📜 Licencia
 
-Este proyecto está bajo la licencia MIT. ¡Siéntete libre de modificar y mejorar el código!
+    Este proyecto está bajo la licencia MIT.
